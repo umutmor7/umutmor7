@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/umutmor7" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%9A-Buy%20A%20Book-blue" title="☕️"></a>
   </p>
 
-    <h2 align="center" style="font-weight: bold; font-size: 18px"> My interests & Professions</h2>
+  <h2 align="center" style="font-weight: bold; font-size: 18px"> My interests & Professions</h2>
 
   ![Python](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python&logoColor=EF7F1A&color=2B2A29)
   ![Flask](https://img.shields.io/badge/flask-cD1?style=for-the-badge&logo=flask&logoColor=EF7F1A&color=2B2A29)
